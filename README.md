@@ -45,7 +45,7 @@ cd Logistic-Regression-Grid-Search-EDA
 3. Run the Python script:
 
 ```bash
-python logistic_regression_grid_search.py
+python logistic_regression_grid_search.ipynb
 ```
 
 ## Requirements
