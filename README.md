@@ -1,8 +1,5 @@
 # Logistic Regression with Grid Search and Exploratory Data Analysis (EDA)
 
-![GitHub](https://img.shields.io/github/license/4Pranjal/Logistic-Regression-Grid-Search-EDA)
-![GitHub stars](https://img.shields.io/github/stars/4Pranjal/Logistic-Regression-Grid-Search-EDA)
-
 Welcome to the Logistic Regression with Grid Search and EDA project! In this repository, we explore a Python script that showcases the process of building a Logistic Regression classifier, optimizing its hyperparameters using grid search, and conducting Exploratory Data Analysis (EDA) on the well-known Iris dataset.
 
 ## Introduction
